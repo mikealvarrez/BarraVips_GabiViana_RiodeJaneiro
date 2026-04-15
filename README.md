@@ -21,8 +21,11 @@ Ideal para quem procura acompanhantes no Rio de Janeiro com atendimento na Barra
 # Detalhes
 
 Atende: Rio de Janeiro
+
 Local: Flamengo
+
 Rosto: Sim
+
 
 --- 
 
