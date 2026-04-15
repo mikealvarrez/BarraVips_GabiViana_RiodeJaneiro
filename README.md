@@ -1,4 +1,4 @@
-#Gabi Viana – Escort in Rio de Janeiro | Barra da Tijuca
+# Gabi Viana – Escort in Rio de Janeiro | Barra da Tijuca
 
 Gabi Viana is a high-end escort in Rio de Janeiro, offering services in the Barra da Tijuca area. Her profile features real photos, a detailed description, and direct contact information, making it easier for clients seeking a discreet and personalized experience.
 
@@ -8,7 +8,7 @@ Ideal for those looking for escorts in Rio de Janeiro, especially in Barra da Ti
 
 ------
 
-#Gabi Viana – Acompanhante no Rio de Janeiro | Barra da Tijuca
+# Gabi Viana – Acompanhante no Rio de Janeiro | Barra da Tijuca
 
 Gabi Viana é uma acompanhante de alto padrão no Rio de Janeiro, com atendimento na região da Barra da Tijuca. O perfil apresenta fotos reais, descrição detalhada e informações para contato direto, facilitando a escolha para quem busca companhia discreta e personalizada.
 
