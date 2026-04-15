@@ -18,6 +18,14 @@ Ideal para quem procura acompanhantes no Rio de Janeiro com atendimento na Barra
 
 ---
 
+# Detalhes
+
+Atende: Rio de Janeiro
+Local: Flamengo
+Rosto: Sim
+
+--- 
+
 # Boudoir / Ensaio Sensual
 
 ![1](Ensaio%20(1).jpg)
