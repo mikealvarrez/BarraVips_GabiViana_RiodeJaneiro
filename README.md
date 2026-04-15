@@ -30,6 +30,7 @@ Ideal para quem procura acompanhantes no Rio de Janeiro com atendimento na Barra
 - 📢 Anuncio: https://www.barravipsrio.com/acompanhantes-rio-de-janeiro-gabi-viana
 - 📌 Pinterest: https://www.pinterest.com/mikealvarrez/gabi-viana-barra-vips
 - 🔗 Links: https://allmylinks.com/mikealvarrez
+- 💻 Repo: https://github.com/mikealvarrez/BarraVips_GabiViana_RiodeJaneiro
 
 --- 
 
