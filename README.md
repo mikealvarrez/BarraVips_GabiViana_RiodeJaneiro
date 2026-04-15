@@ -16,7 +16,9 @@ Com foco em privacidade e atendimento de qualidade, Gabi oferece experiências v
 
 Ideal para quem procura acompanhantes no Rio de Janeiro com atendimento na Barra da Tijuca, o anúncio combina praticidade, discrição e informações claras para uma escolha segura.
 
+---
 
+# Boudoir / Ensaio Sensual
 
 ![1](Ensaio%20(1).jpg)
 ![2](Ensaio%20(2).jpg)
@@ -37,13 +39,17 @@ Ideal para quem procura acompanhantes no Rio de Janeiro com atendimento na Barra
 ![17](Ensaio%20(17).jpg)
 ![18](Ensaio%20(18).jpg)
 
-## Fotos
+---
+
+# Photos / Fotos Reais
 
 ![1](Fotos%20(1).jpeg)
 ![2](Fotos%20(2).jpeg)
 ![3](Fotos%20(3).jpeg)
 
-## Vídeos
+---
+
+# Vídeos
 
 [Video 1](Videos%20(1).mp4)  
 [Video 2](Videos%20(2).mp4)  
