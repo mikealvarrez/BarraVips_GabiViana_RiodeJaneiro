@@ -20,16 +20,16 @@ Ideal para quem procura acompanhantes no Rio de Janeiro com atendimento na Barra
 
 # Detalhes
 
-🌆 Atende: Rio de Janeiro
-📍 Local: Flamengo
-😊 Rosto: Sim
-🎂 Idade: 22
-📱 Celular: +55 21 96897 3338
-💬 Contato: https://api.whatsapp.com/send?phone=5521968973338
-⭐ Reviews: ???
-📢 Anuncio: https://www.barravipsrio.com/acompanhantes-rio-de-janeiro-gabi-viana
-📌 Pinterest: https://www.pinterest.com/mikealvarrez/gabi-viana-barra-vips
-🔗 Links: https://allmylinks.com/mikealvarrez
+- 🌆 Atende: Rio de Janeiro
+- 📍 Local: Flamengo
+- 😊 Rosto: Sim
+- 🎂 Idade: 22
+- 📱 Celular: +55 21 96897 3338
+- 💬 Contato: https://api.whatsapp.com/send?phone=5521968973338
+- ⭐ Reviews: ???
+- 📢 Anuncio: https://www.barravipsrio.com/acompanhantes-rio-de-janeiro-gabi-viana
+- 📌 Pinterest: https://www.pinterest.com/mikealvarrez/gabi-viana-barra-vips
+- 🔗 Links: https://allmylinks.com/mikealvarrez
 
 --- 
 
