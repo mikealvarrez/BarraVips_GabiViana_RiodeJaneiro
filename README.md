@@ -34,6 +34,12 @@ Ideal para quem procura acompanhantes no Rio de Janeiro com atendimento na Barra
 
 --- 
 
+# Sobre Mim
+
+"Meu nome é Gabriela, tenho 23 anos e sou natural de Curitiba, no Sul do Brasil. Corpo totalmente natural, sem silicone. Trabalho em parceria com minha amiga Bianca Alves, que também está no BarraVips. Valorizo a autenticidade, a elegância e uma boa experiência."
+
+--- 
+
 # Boudoir / Ensaio Sensual
 
 ![1](Ensaio%20(1).jpg)
