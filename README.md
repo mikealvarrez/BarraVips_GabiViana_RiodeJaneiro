@@ -6,7 +6,7 @@ With a focus on privacy and quality service, Gabi provides sophisticated compani
 
 Ideal for those looking for escorts in Rio de Janeiro, especially in Barra da Tijuca, this listing combines convenience, discretion, and clear information for a confident choice.
 
-------
+---
 
 # Gabi Viana – Acompanhante no Rio de Janeiro | Barra da Tijuca
 
@@ -20,12 +20,13 @@ Ideal para quem procura acompanhantes no Rio de Janeiro com atendimento na Barra
 
 # Detalhes
 
-Atende: Rio de Janeiro
-
-Local: Flamengo
-
-Rosto: Sim
-
+- Atende: Rio de Janeiro
+- Local: Flamengo
+- Rosto: Sim
+- Reviews: ???
+- Anuncio: https://www.barravipsrio.com/acompanhantes-rio-de-janeiro-gabi-viana
+- Pinterest: https://www.pinterest.com/mikealvarrez/gabi-viana-barra-vips
+- Links: https://allmylinks.com/mikealvarrez
 
 --- 
 
