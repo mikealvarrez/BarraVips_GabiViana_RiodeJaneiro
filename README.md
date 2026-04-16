@@ -8,8 +8,6 @@ Com foco em privacidade e atendimento de qualidade, Gabi oferece experiências v
 
 Ideal para quem procura acompanhantes no Rio de Janeiro com atendimento na Barra da Tijuca, o anúncio combina praticidade, discrição e informações claras para uma escolha segura.
 
----
-
 # Detalhes
 
 - 🌆 Atende: Rio de Janeiro
