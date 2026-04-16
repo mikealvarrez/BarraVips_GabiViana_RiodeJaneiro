@@ -1,0 +1,302 @@
+<!DOCTYPE html>
+<html lang="pt" >
+    <head>
+        <style>
+            /* ================ Reset ================ */
+            * {
+                margin: 0;
+                padding: 0;
+                box-sizing: border-box;
+            }
+
+            * { user-select: none; }
+            
+            hr { border: none; }
+            
+            li { list-style: none; }
+            
+
+
+            /* ================ Body ================ */
+            body { background-color: black; }
+            body {
+                --s: 80px; 
+                --c1: #000000;
+                --c2: #090909;
+
+                --_g: 
+                #0000 calc(-650%/13) calc(50%/13),var(--c1) 0 calc(100%/13),
+                #0000 0 calc(150%/13),var(--c1) 0 calc(200%/13),
+                #0000 0 calc(250%/13),var(--c1) 0 calc(300%/13);
+                --_g0: repeating-linear-gradient( 45deg,var(--_g));
+                --_g1: repeating-linear-gradient(-45deg,var(--_g));
+                background:
+                var(--_g0),var(--_g0) var(--s) var(--s),
+                var(--_g1),var(--_g1) var(--s) var(--s) var(--c2);
+                background-size: calc(2*var(--s)) calc(2*var(--s));
+            }    
+
+
+            
+            /* ================ Header ================ */
+            header {
+                background-color: rgb(18, 18, 18);
+                box-shadow: rgba(0, 0, 0, 0.50) 0 0 15px;
+            }
+            
+            header h1 {
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                
+                white-space: nowrap;
+                height: 75px;
+                /* text-shadow: rgba(0, 0, 0, 0.50) 0px 0px 15px; */
+            }
+
+            header hr {
+                background-color: darkorange;
+                height: 2px;
+                width: 100%;
+            }
+
+            nav {
+                display: flex;
+                align-items: center;
+
+                margin: auto;
+                padding-left: 20px;
+                max-width: 1080px;
+                height: 27px;
+            }
+
+            nav a {
+                font-weight: 500;
+            }
+
+            
+
+            /* ================ Main ================ */
+            main {
+                max-width: 1080px;
+                margin: 0 auto;
+                padding-bottom: 40px;
+                padding-left: 15px;
+                padding-right: 15px;
+            }
+
+
+            
+            /* ================ Sections ================ */
+            section {
+                margin-top: 35px;
+                background-color: rgba(15, 15, 15, 0.79);
+                box-shadow: rgba(0, 0, 0, 0.50) 0 0 15px;
+            }
+            
+            section, section h1, section h2 {
+                border-top-left-radius: 10px;
+                border-top-right-radius: 10px;
+            }
+            
+            section h1, section h2 {
+                white-space: nowrap;
+                
+                display: flex;
+                align-items: center;
+                justify-content: center;
+
+                
+                text-shadow: rgba(0, 0, 0, 0.75) 0 0 10px;
+                background: linear-gradient(rgb(49, 2, 49), rgb(39, 2, 39));
+                height: 40px;
+            }
+            
+            section div, ul {
+                padding: 18px;
+            }
+            
+            section ul {
+                overflow: hidden;
+            }
+            
+            section div {
+                text-align: center;
+            }
+            
+
+
+            /* ================ Content ================ */
+            section a {
+                color: darkorange; 
+            }
+
+            section b {
+                color: limegreen;
+            }
+
+            
+
+            /* ================ Texts ================ */
+            h1, h2, li, p, a {
+                color: white;
+            }
+            
+            h1, h2 {
+                text-align: center;
+                font-family: system-ui; 
+            }
+
+            p, li {
+                font-family: system-ui; 
+            }
+            
+            
+
+            /* ================ Links ================ */
+            li, a {
+                white-space: nowrap;
+            }
+
+            a {
+                font-family: system-ui; 
+                text-decoration: none;
+            }
+
+            a:hover {
+                color: darkorange;
+            }
+
+
+
+            /* ================ Midia ================ */
+            section img, section video {
+                -webkit-user-drag: none;
+                
+                box-shadow: rgba(0, 0, 0, 0.75) 0 0 12px;
+
+                max-width: 100%;
+                background-color: rgb(32,32,32);
+                border-radius: 5px;
+                margin-bottom: 12px;
+                margin-left:   4px;
+                margin-right:  4px;
+            }
+
+
+
+            /* ================ Footer ================ */
+            footer {
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                
+                height: 100px;
+                /* background-color: rgb(15, 15, 15); */
+                background: linear-gradient(rgb(20,20,20), rgb(8,8,8));
+                box-shadow: rgba(0, 0, 0, 0.20) 0 0 12px;
+            }
+
+            footer h1 {
+                text-shadow: black 0px 0px 15px;
+            }
+
+        </style>
+            
+        <link rel='icon' href='https://cdn-icons-png.flaticon.com/512/1828/1828884.png' />
+        <title>Acompanhante de Luxo Gabi Viana - Rio de Janeiro</title>
+        <meta name="description" content="Meu nome é Gabriela, tenho 23 anos e sou natural de Curitiba, no Sul do Brasil. Corpo totalmente natural, sem silicone. Trabalho em parceria com minha amiga Bianca Alves, que também está no BarraVips. Valorizo a autenticidade, a elegância e uma boa experiência.">
+    </head>
+    <body>
+        <header>
+            <div>
+                <h1>Acompanhantes de Luxo - Barra Vips</h1>
+            </div>
+            <hr />
+            <nav>
+                <a href="#" >Inicío</a>
+            </nav>
+        </header>
+        
+        <main>
+            <section>
+                <h2>Gabi Viana - Rio de Janeiro - Flamengo</h2>
+                <div>
+                    <p>"Meu nome é Gabriela, tenho 23 anos e sou natural de Curitiba, no Sul do Brasil. Corpo totalmente natural, sem silicone. Trabalho em parceria com minha amiga Bianca Alves, que também está no BarraVips. Valorizo a autenticidade, a elegância e uma boa experiência."</p>
+                </div>
+            </section>
+            
+            
+            <section>
+                <h2>Detalhes</h2>
+                <ul>
+                    <li>- 🌎 Atende: Rio de Janeiro</li>
+                    <li>- 📍 Local: Flamengo</li>
+                    <li>- 😊 Rosto: Sim</li>
+                    <li>- 😍 Perfil: Morena</li>
+                    <li>- 🎂 Idade: 22</li>
+                    <li>- 🗓️ Post: 2026-04-15</li>
+                    <li>- 💰 Cache: ???</li>
+                    <li>- 📱 Celular: <a href="tel:+5521968973338"><b>+55 21 96897 3338</b></a></li>
+                    <li>- 💬 Whatsapp: <a href="https://wa.me/5521968973338" ><b>https://wa.me/5521968973338</b></a></li>
+                    <li>- 📢 Anúncio: <a href="https://www.barravipsrio.com/acompanhantes-rio-de-janeiro-gabi-viana" >https://www.barravipsrio.com/acompanhantes-rio-de-janeiro-gabi-viana</a></li>
+                    <li>- ⭐ Reviews: ???</li>
+                    <li>- 🔒 Conteúdo: ???</li>
+                    <li>- 📌 Pinterest: <a href="https://www.pinterest.com/mikealvarrez/gabi-viana-barra-vips" >https://www.pinterest.com/mikealvarrez/gabi-viana-barra-vips</a></li>
+                    <li>- 💻 Repo: <a href="https://github.com/mikealvarrez/BarraVips_GabiViana_RiodeJaneiro" >https://github.com/mikealvarrez/BarraVips_GabiViana_RiodeJaneiro</a></li>
+                    <li>- 🔗 Links: <a href="https://allmylinks.com/mikealvarrez" >https://allmylinks.com/mikealvarrez</a></li>
+                </ul>
+            </section>
+            
+            
+            <section>
+                <h2>Ensaio Sensual</h2>
+                <div>
+                    <img src="https://raw.githubusercontent.com/mikealvarrez/BarraVips_GabiViana_RiodeJaneiro/refs/heads/main/Ensaio%20(1).jpg"  />
+                    <img src="https://raw.githubusercontent.com/mikealvarrez/BarraVips_GabiViana_RiodeJaneiro/refs/heads/main/Ensaio%20(2).jpg"  />
+                    <img src="https://raw.githubusercontent.com/mikealvarrez/BarraVips_GabiViana_RiodeJaneiro/refs/heads/main/Ensaio%20(3).jpg"  />
+                    <img src="https://raw.githubusercontent.com/mikealvarrez/BarraVips_GabiViana_RiodeJaneiro/refs/heads/main/Ensaio%20(4).jpg"  />
+                    <img src="https://raw.githubusercontent.com/mikealvarrez/BarraVips_GabiViana_RiodeJaneiro/refs/heads/main/Ensaio%20(5).jpg"  />
+                    <img src="https://raw.githubusercontent.com/mikealvarrez/BarraVips_GabiViana_RiodeJaneiro/refs/heads/main/Ensaio%20(6).jpg"  />
+                    <img src="https://raw.githubusercontent.com/mikealvarrez/BarraVips_GabiViana_RiodeJaneiro/refs/heads/main/Ensaio%20(7).jpg"  />
+                    <img src="https://raw.githubusercontent.com/mikealvarrez/BarraVips_GabiViana_RiodeJaneiro/refs/heads/main/Ensaio%20(8).jpg"  />
+                    <img src="https://raw.githubusercontent.com/mikealvarrez/BarraVips_GabiViana_RiodeJaneiro/refs/heads/main/Ensaio%20(9).jpg"  />
+                    <img src="https://raw.githubusercontent.com/mikealvarrez/BarraVips_GabiViana_RiodeJaneiro/refs/heads/main/Ensaio%20(10).jpg" />
+                    <img src="https://raw.githubusercontent.com/mikealvarrez/BarraVips_GabiViana_RiodeJaneiro/refs/heads/main/Ensaio%20(11).jpg" />
+                    <img src="https://raw.githubusercontent.com/mikealvarrez/BarraVips_GabiViana_RiodeJaneiro/refs/heads/main/Ensaio%20(12).jpg" />
+                    <img src="https://raw.githubusercontent.com/mikealvarrez/BarraVips_GabiViana_RiodeJaneiro/refs/heads/main/Ensaio%20(13).jpg" />
+                    <img src="https://raw.githubusercontent.com/mikealvarrez/BarraVips_GabiViana_RiodeJaneiro/refs/heads/main/Ensaio%20(14).jpg" />
+                    <img src="https://raw.githubusercontent.com/mikealvarrez/BarraVips_GabiViana_RiodeJaneiro/refs/heads/main/Ensaio%20(15).jpg" />
+                    <img src="https://raw.githubusercontent.com/mikealvarrez/BarraVips_GabiViana_RiodeJaneiro/refs/heads/main/Ensaio%20(16).jpg" />
+                    <img src="https://raw.githubusercontent.com/mikealvarrez/BarraVips_GabiViana_RiodeJaneiro/refs/heads/main/Ensaio%20(17).jpg" />
+                    <img src="https://raw.githubusercontent.com/mikealvarrez/BarraVips_GabiViana_RiodeJaneiro/refs/heads/main/Ensaio%20(18).jpg" />
+                </div>
+            </section>
+            
+            
+            <section>
+                <h2>Fotos Reais</h2>
+                <div>
+                    <img src="https://raw.githubusercontent.com/mikealvarrez/BarraVips_GabiViana_RiodeJaneiro/refs/heads/main/Fotos%20(1).jpeg"  />
+                    <img src="https://raw.githubusercontent.com/mikealvarrez/BarraVips_GabiViana_RiodeJaneiro/refs/heads/main/Fotos%20(2).jpeg"  />
+                    <img src="https://raw.githubusercontent.com/mikealvarrez/BarraVips_GabiViana_RiodeJaneiro/refs/heads/main/Fotos%20(3).jpeg"  />
+                </div>
+            </section>
+            
+            
+            <section>
+                <h2>Vídeos</h2>
+                <div>
+                    <video controls src="https://github.com/mikealvarrez/BarraVips_GabiViana_RiodeJaneiro/raw/refs/heads/main/Videos%20(1).mp4" controlsList="nodownload noplaybackrate noremoteplayback" ></video>
+                    <video controls src="https://github.com/mikealvarrez/BarraVips_GabiViana_RiodeJaneiro/raw/refs/heads/main/Videos%20(2).mp4" controlsList="nodownload noplaybackrate noremoteplayback" ></video>
+                    <video controls src="https://github.com/mikealvarrez/BarraVips_GabiViana_RiodeJaneiro/raw/refs/heads/main/Videos%20(3).mp4" controlsList="nodownload noplaybackrate noremoteplayback" ></video>
+                </div>
+            </section>
+        </main>
+
+
+        <footer>
+            <h1>Acompanhantes de Luxo - Barra Vips</h1>
+        </footer>
+    </body>
+</html>
