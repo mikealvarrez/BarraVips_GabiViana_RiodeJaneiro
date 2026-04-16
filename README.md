@@ -1,5 +1,6 @@
 # Acompanhantes de Luxo - Barra Vips
 
+
 ## Gabi Viana - Rio de Janeiro - Flamengo
 
 Gabi Viana é uma acompanhante de alto padrão no Rio de Janeiro, com atendimento na região da Barra da Tijuca. O perfil apresenta fotos reais, descrição detalhada e informações para contato direto, facilitando a escolha para quem busca companhia discreta e personalizada.
@@ -7,6 +8,7 @@ Gabi Viana é uma acompanhante de alto padrão no Rio de Janeiro, com atendiment
 Com foco em privacidade e atendimento de qualidade, Gabi oferece experiências voltadas para encontros sofisticados, seja para momentos íntimos, jantares ou eventos. A página destaca características físicas, estilo e diferenciais, ajudando o visitante a entender o perfil antes do contato.
 
 Ideal para quem procura acompanhantes no Rio de Janeiro com atendimento na Barra da Tijuca, o anúncio combina praticidade, discrição e informações claras para uma escolha segura.
+
 
 ## Detalhes
 
