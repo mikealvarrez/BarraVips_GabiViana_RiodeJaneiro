@@ -21,12 +21,14 @@ Ideal para quem procura acompanhantes no Rio de Janeiro com atendimento na Barra
 - 💰 Cache: ???
 - 📱 Celular: +55 21 96897 3338
 - 💬 Whatsapp: https://wa.me/5521968973338
-- 📢 Anúncio: https://www.barravipsrio.com/acompanhantes-rio-de-janeiro-gabi-viana</a>
+- 📢 Anúncio: https://www.barravipsrio.com/acompanhantes-rio-de-janeiro-gabi-viana
 - ⭐ Reviews: ???
 - 🔒 Conteúdo: ???
 - 📌 Pinterest: https://www.pinterest.com/mikealvarrez/gabi-viana-barra-vips
-- 💻 Repo: https://github.com/mikealvarrez/BarraVips_GabiViana_RiodeJaneiro
+- 💻 Site 1: https://barra-vips-gabi-viana-riode-janeiro.vercel.app
+- 💻 Site 2: https://barravips-gabiviana-riodejaneiro.onrender.com
 - 🔗 Links: https://allmylinks.com/mikealvarrez
+
 
 ## Descrição
 
