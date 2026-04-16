@@ -12,21 +12,21 @@ Ideal para quem procura acompanhantes no Rio de Janeiro com atendimento na Barra
 
 ## Detalhes
 
-- 🌆 Atende: Rio de Janeiro
+- 🌎 Atende: Rio de Janeiro
 - 📍 Local: Flamengo
 - 😊 Rosto: Sim
-- 😍 Perfil: Morena 
+- 😍 Perfil: Morena
 - 🎂 Idade: 22
 - 🗓️ Post: 2026-04-15
+- 💰 Cache: ???
 - 📱 Celular: +55 21 96897 3338
-- 💬 Contato: https://api.whatsapp.com/send?phone=5521968973338
-- 📢 Anúncio: https://www.barravipsrio.com/acompanhantes-rio-de-janeiro-gabi-viana
+- 💬 Whatsapp: https://wa.me/5521968973338
+- 📢 Anúncio: https://www.barravipsrio.com/acompanhantes-rio-de-janeiro-gabi-viana</a>
 - ⭐ Reviews: ???
 - 🔒 Conteúdo: ???
 - 📌 Pinterest: https://www.pinterest.com/mikealvarrez/gabi-viana-barra-vips
 - 💻 Repo: https://github.com/mikealvarrez/BarraVips_GabiViana_RiodeJaneiro
-- 🔗 Webmaster: https://allmylinks.com/mikealvarrez
-
+- 🔗 Links: https://allmylinks.com/mikealvarrez
 
 ## Descrição
 
@@ -35,24 +35,24 @@ Ideal para quem procura acompanhantes no Rio de Janeiro com atendimento na Barra
 
 # Ensaio Sensual
 
-![1](Ensaio%20(1).jpg)
-![2](Ensaio%20(2).jpg)
-![3](Ensaio%20(3).jpg)
-![4](Ensaio%20(4).jpg)
-![5](Ensaio%20(5).jpg)
-![6](Ensaio%20(6).jpg)
-![7](Ensaio%20(7).jpg)
-![8](Ensaio%20(8).jpg)
-![9](Ensaio%20(9).jpg)
-![10](Ensaio%20(10).jpg)
-![11](Ensaio%20(11).jpg)
-![12](Ensaio%20(12).jpg)
-![13](Ensaio%20(13).jpg)
-![14](Ensaio%20(14).jpg)
-![15](Ensaio%20(15).jpg)
-![16](Ensaio%20(16).jpg)
-![17](Ensaio%20(17).jpg)
-![18](Ensaio%20(18).jpg)
+![1](Bou%20(1).jpg)
+![2](Bou%20(2).jpg)
+![3](Bou%20(3).jpg)
+![4](Bou%20(4).jpg)
+![5](Bou%20(5).jpg)
+![6](Bou%20(6).jpg)
+![7](Bou%20(7).jpg)
+![8](Bou%20(8).jpg)
+![9](Bou%20(9).jpg)
+![10](Bou%20(10).jpg)
+![11](Bou%20(11).jpg)
+![12](Bou%20(12).jpg)
+![13](Bou%20(13).jpg)
+![14](Bou%20(14).jpg)
+![15](Bou%20(15).jpg)
+![16](Bou%20(16).jpg)
+![17](Bou%20(17).jpg)
+![18](Bou%20(18).jpg)
 
 
 # Fotos Reais
